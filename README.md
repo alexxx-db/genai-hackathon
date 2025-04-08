@@ -1,4 +1,4 @@
-# LLM Hackathon - Agentic AI Project
+# GenAI Hackathon - Agentic AI Project
 
 This repository contains the codebase for the Agentic AI Hackathon project. The project focuses on leveraging Large Language Models (LLMs) to create intelligent, agentic solutions for pharmaceutical research and development.
 
