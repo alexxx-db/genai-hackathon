@@ -1,0 +1,6 @@
+class_path: cookbook.config.data_pipeline.uc_volume_source.UCVolumeSourceConfig
+uc_catalog_name: mlops_pj
+uc_schema_name: hackathon
+uc_volume_name: leaflets
+volume_path: /Volumes/mlops_pj/hackathon/leaflets
+volume_uc_fqn: mlops_pj.hackathon.leaflets
